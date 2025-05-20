@@ -6,7 +6,7 @@ int main() {
 
     cout << "Ingrese la cantidad de numeros: ";
     cin >> N;
-
+    
     for (int i = 0; i < N; i++) {
         cout << "Ingrese un numero: ";
         cin >> numero;
